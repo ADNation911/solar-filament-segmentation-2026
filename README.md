@@ -1,10 +1,11 @@
-# Apex Sovereign: Solar Filament Segmentation (Global Rank 1 — 0.64 PQ)
+# Apex Sovereign: Solar Filament Segmentation (Global Rank 2 — 0.64 PQ)
 
 Official solution repository for **Team Tempest** (`tensura911`) for the **Solar Filament Segmentation Challenge 2026** hosted on Kaggle by the Earth-Space AI Research (ESAIR) Lab and sponsored by the National Science Foundation (NSF) and National Solar Observatory (NSO).
 
-- **Kaggle Leaderboard Rank:** **Global Rank 1** (out of 746 teams worldwide)
-- **Official Public Leaderboard Score (Panoptic Quality):** **`0.64`** (`0.7421` Continuous Micro PQ / `0.7956` Macro PQ)
-- **Winning Submission File:** `submission.csv` (`1,413` disjoint filament instances across all `180/180` test observations)
+- **Team Members:** Aaditya Verma & Teammate (Team Tempest)
+- **Kaggle Leaderboard Rank:** **Global Rank 2** (Top-Tier Solution)
+- **Official Public Leaderboard Score (Panoptic Quality):** **`0.64`** (`0.7421` Continuous Micro PQ / `0.7782` Macro PQ)
+- **Primary Submission File:** `submission.csv` (`1,413` disjoint filament instances across all `180/180` test observations)
 
 ---
 
