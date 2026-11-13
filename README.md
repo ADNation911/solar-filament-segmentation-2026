@@ -2,7 +2,7 @@
 
 Official solution repository for **Team Tempest** (`tensura911`) for the **Solar Filament Segmentation Challenge 2026** hosted on Kaggle by the Earth-Space AI Research (ESAIR) Lab and sponsored by the National Science Foundation (NSF) and National Solar Observatory (NSO).
 
-- **Team Members:** Aaditya Verma ([@tensura911](https://www.kaggle.com/tensura911), aadityaverma0018@gmail.com) & Mansha Nirapure ([@manshanirapure](https://www.kaggle.com/manshanirapure), nirapuremansha@gmail.com)
+- **Team Members:** Aaditya Verma (VIT-AP University, [@tensura911](https://www.kaggle.com/tensura911), aadityaverma0018@gmail.com) & Mansha Nirapure (Bennett University, [@manshanirapure](https://www.kaggle.com/manshanirapure), nirapuremansha@gmail.com)
 - **Kaggle Leaderboard Rank:** **Global Rank 2** (Top-Tier Solution)
 - **Official Public Leaderboard Score (Panoptic Quality):** **`0.64`** (`0.7421` Continuous Micro PQ / `0.7782` Macro PQ)
 - **Primary Submission File:** `submission.csv` (`1,413` disjoint filament instances across all `180/180` test observations)
