@@ -22,7 +22,7 @@ code/
 ├── reproduce_submission.py  # End-to-end verification and inference driver (--mode [verify|infer])
 ├── pipeline_walkthrough.ipynb # Self-contained, executed Jupyter Notebook demonstrating every pipeline stage
 ├── requirements.txt         # Pinned Python dependencies
-└── submission.csv           # Official Global Rank 1 (0.64 PQ) competition submission (1,413 instances)
+└── submission.csv           # Official Global Rank 2 (0.64 PQ) competition submission (1,413 instances)
 ```
 
 ---
